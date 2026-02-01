@@ -1,0 +1,1 @@
+Hola, este es un archivo .sh, que es una prueva de conxion de internet, mi aporte no es el mejor pero sigo aprendiendo, y quiero documentar todos mis programas para en un futuro poder ver de donde vine.
